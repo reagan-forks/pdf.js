@@ -88,6 +88,7 @@
 
 .pdfViewer .page canvas {
   margin: 0;
+  filter: invert(0.86) hue-rotate(180deg);
   display: block;
 }
 
